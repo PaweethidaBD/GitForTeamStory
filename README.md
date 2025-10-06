@@ -7,11 +7,14 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 
 ## Our Wonderful Story
 
-1. Once upon a time, there was a **castle**.  
-   ![castle](img1.png)
+1. Once upon a time, there was a **castle**.
+   One day, the castle suddenty shook as loud footsteps came closer. 
+   Everyone looked outside the walls and saw a shadow moving in the sky.
+   ![castle](/img/castle.png)
+
 
 2. Then suddenly, a **dragon** across the sky, it looked like a dragon or maybe a **robot** (Nobody is sure yet.) scream "Run!!" and straight into the castle.
-   ![dragon](dragon.png)
+   ![dragon](/img/dragon.png)
 
 3. After that, everyone got lost (or maybe teleported?) and somehow there was a **treasure chest**.![treasure chest](img/treasure_large.png)
    They opened it and started searching for the treasure chest inside.![treasure open](img/treasure_open.png)
