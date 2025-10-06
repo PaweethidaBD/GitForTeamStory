@@ -17,7 +17,7 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
    ![dragon](/img/dragon.png)
 
 3. After that, everyone got lost (or maybe teleported?) and somehow there was a **treasure chest**.![treasure chest](img/treasure_large.png)
-   They opened it and started searching for the treasure chest inside.![treasure open](img/treasure_open.png)
+   They opened it and started searching for the treasure inside.![treasure open](img/treasure_open.png)
 
 4. Inside of that treasure chest , Someone found a map , but it had no directions.
    ![map](/img/map.png) 
