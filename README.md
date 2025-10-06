@@ -19,7 +19,7 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
    ![treasure chest](img2.png)
 
 4. Inside of that treasure chest , Someone found a map , but it had no directions.
-   ![map](map.png) 
+   ![map](/img/map.png) 
    He decided to leave the group and He spent days trying to figure out where the map would take him.
    Finally, he gave up and threw it away. he decided to wander around without a map.
    ended up getting lost and dying of hunger alone .
