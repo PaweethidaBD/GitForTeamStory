@@ -1,3 +1,9 @@
+Members of Group
+1. Nattapong Boonjeen 6609652067
+2. Paweethida Buadum 6609652091
+3. Mintthita Jindarattananan 6609652323
+4. Nathaphat Daengnoi 6809650432
+
 # Team Story Challenge
 
 This is the starting draft of your team’s story.  
