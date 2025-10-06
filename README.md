@@ -10,8 +10,8 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 1. Once upon a time, there was a **castle**.  
    ![castle](img1.png)
 
-2. Then suddenly, a **dragon** appeared… but maybe it was actually a **robot**?  
-   (Nobody is sure yet.)
+2. Then suddenly, a **dragon** across the sky, it looked like a dragon or maybe a **robot** (Nobody is sure yet.) scream "Run!!" and straight into the castle.
+   ![dragon](dragon.png)
 
 3. After that, everyone got lost (or maybe teleported?) and somehow there was a **treasure chest**…  
    ![treasure chest](img2.png)
