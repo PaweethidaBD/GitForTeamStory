@@ -13,8 +13,8 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 2. Then suddenly, a **dragon** across the sky, it looked like a dragon or maybe a **robot** (Nobody is sure yet.) scream "Run!!" and straight into the castle.
    ![dragon](dragon.png)
 
-3. After that, everyone got lost (or maybe teleported?) and somehow there was a **treasure chest**…  
-   ![treasure chest](img2.png)
+3. After that, everyone got lost (or maybe teleported?) and somehow there was a **treasure chest**.![treasure chest](img/treasure_large.png)
+   They opened it and started searching for the treasure chest inside.![treasure open](img/treasure_open.png)
 
 4. Inside of that treasure chest , Someone found a map , but it had no directions.
    ![map](/img/map.png) 
